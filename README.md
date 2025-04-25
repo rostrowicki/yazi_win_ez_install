@@ -6,7 +6,7 @@ Follow installation instructions from their website.
 
 ## Add system variables
 
-- YAZI_CONFIG_HOME = C:\Users\[USER]\AppData\\.config\yazi
+- YAZI_CONFIG_HOME = C:\Users\\[USER]\AppData\\.config\yazi
 - YAZI_FILE_ONE = C:\Program Files\Git\usr\bin\file.exe
 
 ## Configuration

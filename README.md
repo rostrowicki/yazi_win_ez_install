@@ -1,6 +1,6 @@
 # Install yazi on Windows
 
-Follow installation instruction from their website.
+Follow installation instructions from their website.
 
 [YAZI Installation](https://yazi-rs.github.io/docs/installation)
 
@@ -11,10 +11,8 @@ Follow installation instruction from their website.
 
 ## Configuration
 
-Create folder: C:\Users\[USER]\AppData\.config\yazi
+- Create folder: C:\Users\[USER]\AppData\.config\yazi
+- Open folder in terminal
+- Clone repo.
 
-Open folder in terminal
-
-Clone repo.
-
-Done
+Done!

@@ -2,7 +2,7 @@
 
 Follow installation instruction from their website.
 
-[https://yazi-rs.github.io/docs/installation](YAZI Installation)
+[YAZI Installation](https://yazi-rs.github.io/docs/installation)
 
 ## Add system variables
 
